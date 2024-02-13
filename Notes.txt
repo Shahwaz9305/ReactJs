@@ -1,0 +1,2 @@
+step 1:- npm init
+step 2:- install bundlar      npm i -D parcel
